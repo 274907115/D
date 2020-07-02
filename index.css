@@ -25,33 +25,33 @@
 				opacity: 0.6;
 			}
 			.front{
-				background-image: url(../img/7.jpg);
+				background-image: url(./img/7.jpg);
 				background-size: 100% auto;
 				transform: translateZ(100px);
 			}
 			.back{
-				background-image: url(../img/8.jpg);
+				background-image: url(./img/8.jpg);
 				background-size: 100% auto;
 				transform: translateZ(-100px);
 			}
 			.right{
-				background-image: url(../img/9.jpg);
+				background-image: url(./img/9.jpg);
 				background-size: auto 100%;
 				transform:rotateY(90deg) translateZ(100px);
 			}
 			.left{
-				background-image: url(../img/10.jpg);
+				background-image: url(./img/10.jpg);
 				background-size: auto 100%;
 				transform:rotateY(-90deg) translateZ(100px);
 			}
 			
 			.top{
-				background-image: url(../img/11.jpg);
+				background-image: url(./img/11.jpg);
 				background-size: auto 100%;
 				transform:rotateX(90deg) translateZ(100px);
 			}
 			.bottom{
-				background-image: url(../img/12.jpg);
+				background-image: url(./img/12.jpg);
 				background-size: auto 100%;
 				transform:rotateX(-90deg) translateZ(100px);
 			}
